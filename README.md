@@ -1,10 +1,10 @@
 # Proyecto PHP 💻
 
-Este es un proyecto de PHP diseñado para [describir el propósito o la funcionalidad principal del proyecto].
+Este es un proyecto de PHP sin Framework estaba diseñado para ayudar en la gestion de trabajo en la Gobernacion del Guayas.
 
 ## Descripción ℹ️
 
-[Proporciona una descripción más detallada del proyecto, incluyendo sus características principales, su objetivo y cualquier otro detalle relevante.]
+
 
 ## Instalación 🛠️
 
@@ -14,11 +14,15 @@ Este es un proyecto de PHP diseñado para [describir el propósito o la funciona
    git clone https://github.com/Lualvarad0/PHP.git
    ```
 
-2. [Agrega aquí cualquier instrucción adicional necesaria para instalar y configurar el proyecto, como la configuración de la base de datos, instalación de dependencias, etc.]
-
 ## Uso 🚀
 
-1. [Proporciona instrucciones detalladas sobre cómo utilizar el proyecto, incluyendo cómo ejecutarlo, qué URL visitar en el navegador, etc.]
+1. Instala xampp // ACTUALMENTE NO ESTA DISPONIBLE LA BASE DE DATOS ->ESTA SIENDFO REESTRUCTURADA
+2. Configura el Path para PHP
+3. mueve el proyecto a la siguiente direccion: "C:\xampp\htdocs\PHP"
+4. levanta el xamp
+![imagen](https://github.com/Lualvarad0/PHP/assets/78248845/3703eb4f-9587-4891-a871-f3f9a34b586d)
+5. debes de correr el proyecto en la siguinet dirección:
+![imagen](https://github.com/Lualvarad0/PHP/assets/78248845/5ed74a4d-8357-4b51-af52-af4c432a9fbd)
 
 ## Contribución 🤝
 
