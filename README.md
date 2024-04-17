@@ -16,7 +16,7 @@ Este es un proyecto de PHP sin Framework estaba diseñado para ayudar en la gest
 
 ## Uso 🚀
 
-1. Instala xampp // ACTUALMENTE NO ESTA DISPONIBLE LA BASE DE DATOS ->ESTA SIENDFO REESTRUCTURADA
+1. Instala xampp // ACTUALMENTE NO ESTA DISPONIBLE LA BASE DE DATOS ->ESTA SIENDO REESTRUCTURADA
 2. Configura el Path para PHP
 3. mueve el proyecto a la siguiente direccion: "C:\xampp\htdocs\PHP"
 4. levanta el xamp
